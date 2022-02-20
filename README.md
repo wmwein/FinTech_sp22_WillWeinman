@@ -1,0 +1,2 @@
+# FinTech_sp22_WillWeinman
+Northwestern Fintech certifaction repository
